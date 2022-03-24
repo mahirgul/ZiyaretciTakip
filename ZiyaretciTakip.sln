@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZiyaretciTakip", "ZiyaretciTakip\ZiyaretciTakip.csproj", "{118D8AA2-77C6-42FF-B473-C992E3385292}"
 EndProject
-Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "ZiyaretciSetup", "AI Setup Project1\ZiyaretciSetup.aiproj", "{D840B98D-A6F3-4F52-A7D8-FD4C78AACCEE}"
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "ZiyaretciSetup", "ZiyaretciSetup\ZiyaretciSetup.aiproj", "{D840B98D-A6F3-4F52-A7D8-FD4C78AACCEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
